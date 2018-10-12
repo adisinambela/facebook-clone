@@ -1,3 +1,5 @@
 # Facebook Clone
 
-![Screenshot](./screenshot.jpg)
+This a simple Facebook clone.
+
+![Screenshot](./screenshot.png)
